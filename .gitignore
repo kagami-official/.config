@@ -1,0 +1,13 @@
+/*
+
+!/alacritty
+!/nvim
+/nvim/plugged
+/nvim/tmp
+
+!/ranger
+/ranger/plugins
+!/zsh
+
+!.gitignore
+
