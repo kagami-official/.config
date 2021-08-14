@@ -10,4 +10,5 @@
 !/zsh
 
 !.gitignore
+!*.md
 
