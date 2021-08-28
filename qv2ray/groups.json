@@ -1,0 +1,109 @@
+{
+    "000000000000": {
+        "connections": [
+        ],
+        "creationDate": 1627745311,
+        "displayName": "Default Group",
+        "isSubscription": false,
+        "lastUpdatedDate": 1627745311,
+        "routeConfigId": "zrygchwwozoa",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "",
+            "type": "simple_base64",
+            "updateInterval": 10
+        }
+    },
+    "cuqwesjdgnbx": {
+        "connections": [
+        ],
+        "creationDate": 1627806339,
+        "displayName": "kuailimao",
+        "isSubscription": true,
+        "lastUpdatedDate": 1628709593,
+        "routeConfigId": "pxzaggwxribx",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "https://q5fxpe6b.buzz/s/ip67VlT5F1Faxo",
+            "type": "simple_base64",
+            "updateInterval": 10
+        }
+    },
+    "peqagjitwxyt": {
+        "connections": [
+            "iiwpakvluryv",
+            "jpufxsplarej",
+            "ytysjobuhvha",
+            "gexuztbnuzlr",
+            "gkgkutymgdyy",
+            "adxrewpqxtpy",
+            "sicpzgdlgqdr",
+            "ohfzdokfawxh",
+            "dkwhiakkqbaf",
+            "ncdwhpkswmdf",
+            "eglmrdkhwlwl",
+            "rkmgqrkavcbk",
+            "vkodyofmidel",
+            "srclsvactyhb",
+            "kpbnuknwyexf",
+            "hyrfrogztpty",
+            "faffrgnxwyqw",
+            "ecasytntvryq",
+            "tgivffbozcmz",
+            "onsjhgfwrneq",
+            "axepvozavskc",
+            "crmcphhtqojc",
+            "krshvwdaifri",
+            "ylgbmczramtx",
+            "erakndszsfta",
+            "orttvsuuayef"
+        ],
+        "creationDate": 1627806871,
+        "displayName": "xinjie",
+        "isSubscription": true,
+        "lastUpdatedDate": 1630119015,
+        "routeConfigId": "qbizuxyspoag",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "https://api.xinjie.eu.org/link/WAkTcUnbLR8dpz1j?sub=3",
+            "type": "simple_base64",
+            "updateInterval": 10
+        }
+    },
+    "vcizglcrnnes": {
+        "connections": [
+            "cbpjmyebldbv"
+        ],
+        "creationDate": 1628002885,
+        "displayName": "xinjie-ssr",
+        "isSubscription": true,
+        "lastUpdatedDate": 1629568116,
+        "routeConfigId": "rwgwwjjcqnkl",
+        "subscriptionOption": {
+            "ExcludeKeywords": [
+            ],
+            "ExcludeRelation": 0,
+            "IncludeKeywords": [
+            ],
+            "IncludeRelation": 1,
+            "address": "https://sub.xinjie.eu.org/link/WAkTcUnbLR8dpz1j?mu=1",
+            "type": "simple_base64",
+            "updateInterval": 1
+        }
+    }
+}

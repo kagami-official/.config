@@ -1,0 +1,25 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocksr",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "address": "1.0.0.1",
+                "group": "心阶 ",
+                "method": "aes-128-cfb",
+                "obfs": "plain",
+                "obfs_param": "5bba6182751.wns.windows.com",
+                "password": "qwQm0B",
+                "port": 18348,
+                "protocol": "auth_aes128_md5",
+                "protocol_param": "182751:Nt1tB0",
+                "remarks": "A-Tip:请勿下载BT！请及时更新订阅&续费。 - 18348 "
+            },
+            "streamSettings": {
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

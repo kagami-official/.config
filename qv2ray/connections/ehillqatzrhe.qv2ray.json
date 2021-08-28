@@ -1,0 +1,25 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocksr",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "address": "7qh5szil.yxhepdkw.top",
+                "group": "5fiuyinm",
+                "method": "chacha20-ietf",
+                "obfs": "http_simple",
+                "obfs_param": "download.microsoft.com",
+                "password": "i63hmihb6nq59amp",
+                "port": 11142,
+                "protocol": "auth_aes128_sha1",
+                "protocol_param": "31747:BKGgLvwmldHxKoDL",
+                "remarks": "香港[06]"
+            },
+            "streamSettings": {
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

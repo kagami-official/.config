@@ -1,0 +1,25 @@
+{
+    "outbounds": [
+        {
+            "mux": {
+            },
+            "protocol": "shadowsocksr",
+            "sendThrough": "0.0.0.0",
+            "settings": {
+                "address": "www.google.com",
+                "group": "心阶 ",
+                "method": "chacha20",
+                "obfs": "tls1.2_ticket_auth",
+                "obfs_param": "",
+                "password": "breakwall",
+                "port": 2,
+                "protocol": "auth_chain_a",
+                "protocol_param": "",
+                "remarks": "过期时间：2022-07-27 16:32:48"
+            },
+            "streamSettings": {
+            },
+            "tag": "PROXY"
+        }
+    ]
+}

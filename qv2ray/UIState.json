@@ -1,0 +1,26 @@
+{
+    "GroupManager": {
+        "height": 621,
+        "width": 936,
+        "x": 492,
+        "y": 211
+    },
+    "MainWindow": {
+        "height": 697,
+        "width": 829,
+        "x": 946,
+        "y": 117
+    },
+    "PluginManager": {
+        "height": 557,
+        "width": 876,
+        "x": 285,
+        "y": 181
+    },
+    "PreferenceWindow": {
+        "height": 603,
+        "width": 897,
+        "x": 912,
+        "y": 196
+    }
+}
