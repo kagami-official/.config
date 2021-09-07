@@ -8,7 +8,6 @@ let &t_ut=''
 set autochdir
 set clipboard+=unnamedplus
 
-
 syntax on
 set number 
 set relativenumber
@@ -258,9 +257,9 @@ let g:coc_global_extensions = [
       \'coc-snippets',
       \'coc-json',
       \'coc-tsserver',
-      \ 'coc-python',
+      \'coc-python',
       \'coc-pyright',
-      \ 'coc-flutter-tools']
+      \'coc-flutter-tools']
 "
 " == coc.settings
 "
